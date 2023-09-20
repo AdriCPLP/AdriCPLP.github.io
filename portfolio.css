@@ -50,3 +50,8 @@ footer
 	text-align: center;
 	flex-basis: 100%;
 }
+video
+{
+	width: 320px;
+	heigth: 240px;
+}
