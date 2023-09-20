@@ -1,0 +1,52 @@
+body
+{
+	background-image: linear-gradient(black, white);
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+img
+{
+	width: 150px;
+	display: center;
+}
+header
+{
+	text-align: center;
+	flex-basis: 100%;
+	height: 300px;
+}
+h1
+{
+	color: white;
+}
+h3
+{
+	float: left;
+}
+p
+{
+	clear: both;
+}
+section
+{
+	max-width: 1200px;
+	min-width: 900px;
+}
+h5
+{
+	display: none;
+}
+article
+{
+	border: 3px solid black;
+	padding: 5px;
+	margin: 25px;
+	border-radius: 25px;
+	box-shadow: 10px 20px 5px grey;
+}
+footer
+{
+	text-align: center;
+	flex-basis: 100%;
+}
